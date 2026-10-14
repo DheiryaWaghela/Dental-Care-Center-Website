@@ -1,0 +1,32 @@
+DentalCareCenter reference-project image sources
+===============================================
+
+The uploaded FINAL DRAFT IG(1).zip contains NO binary image files.
+The project references the following external Unsplash images.
+
+GALLERY
+1. Modern dental clinic reception area
+https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=700&h=500&fit=crop&auto=format
+2. State-of-the-art dental chair
+https://images.unsplash.com/photo-1588776814546-1ffbb5b7dc8e?w=700&h=500&fit=crop&auto=format
+3. Patient smile transformation result
+https://images.unsplash.com/photo-1606811971618-4486d14f3f99?w=700&h=500&fit=crop&auto=format
+4. Precision dental instruments and tools
+https://images.unsplash.com/photo-1609840114035-3c981b782dfe?w=700&h=500&fit=crop&auto=format
+5. Digital dental X-ray examination
+https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=700&h=500&fit=crop&auto=format
+6. Comfortable clinic waiting lounge
+https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=700&h=500&fit=crop&auto=format
+
+DENTISTS
+1. Dr. Akhilesh Yadav
+https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=400&h=450&fit=crop&auto=format
+2. Dr. Rahul Mehta
+https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=400&h=450&fit=crop&auto=format
+3. Dr. Ananya Joshi
+https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=400&h=450&fit=crop&auto=format
+4. Dr. Vikram Patel
+https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=400&h=450&fit=crop&auto=format
+
+Note:
+The reference ZIP stores these as external URLs in the data files; it does not contain local copies of the image binaries. No fake/recreated images were substituted.
